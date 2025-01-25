@@ -1,8 +1,6 @@
 "use client";
 
-import { useState } from "react";
-import Link from 'next/link';
-import { FiMenu, FiX } from "react-icons/fi";
+import Link from "next/link";
 
 export default function Navbar() {
     return (
